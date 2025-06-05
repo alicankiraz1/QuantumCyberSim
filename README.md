@@ -26,7 +26,7 @@ This project demonstrates how quantum computing poses a threat to current crypto
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/QuantumCyberSim.git
+git clone https://github.com/alicankiraz1/QuantumCyberSim.git
 cd QuantumCyberSim
 ```
 
